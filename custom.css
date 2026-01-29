@@ -2,4 +2,9 @@ header{
     background-image: url("https://tb-static.uber.com/prod/image-proc/processed_images/a349e40af5553dc019bcdf44190f56e4/c9252e6c6cd289c588c3381bc77b1dfc.jpeg");
     background-position: center center;
     background-size: cover;
+    padding-top: 0px;
 }
+
+header h1 {
+    color: red
+};
