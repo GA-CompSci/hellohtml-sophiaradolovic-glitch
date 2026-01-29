@@ -1,10 +1,30 @@
 header{
-    background-image: url("https://tb-static.uber.com/prod/image-proc/processed_images/a349e40af5553dc019bcdf44190f56e4/c9252e6c6cd289c588c3381bc77b1dfc.jpeg");
+    background-image: url("https://i.abcnewsfe.com/a/142c46c8-a47c-4e37-ab1c-c44b046dc7ff/taco-bell-1-gty-bb-240917_1726592846227_hpMain.jpg");
     background-position: center center;
     background-size: cover;
     padding-top: 0px;
 }
 
-header h1 {
-    color: red
-};
+#hero-text{
+    color: rgb(0, 255, 149) !important;
+    text-shadow: rgb(11, 11, 251) 2px 4px 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 72px
+}
+
+header p {
+    font-size: 17px !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke !important;
+    font-weight: 900 !important;
+    text-shadow: black 1px 2px 3px;
+}
+
+a.btn-primary {
+    background-color: rgb(248, 23, 248) !important;
+    border: 2px solid rgb(11, 11, 251) !important;
+    color: whitesmoke !important;
+    font-weight: 300 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
